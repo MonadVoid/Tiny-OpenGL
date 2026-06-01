@@ -35,5 +35,5 @@ The goal of this project is to:
 ### Build Instructions
 1. Clone the repo:
    ```bash
-   git clone https://github.com/2003Talha/Tiny-OpenGL.git
+   git clone https://github.com/MonadVoid/Tiny-OpenGL.git
 
